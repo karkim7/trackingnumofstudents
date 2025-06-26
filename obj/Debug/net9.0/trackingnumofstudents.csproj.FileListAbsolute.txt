@@ -1,0 +1,15 @@
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\bin\Debug\net9.0\trackingnumofstudents.exe
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\bin\Debug\net9.0\trackingnumofstudents.deps.json
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\bin\Debug\net9.0\trackingnumofstudents.runtimeconfig.json
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\bin\Debug\net9.0\trackingnumofstudents.dll
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\bin\Debug\net9.0\trackingnumofstudents.pdb
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.AssemblyInfoInputs.cache
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.AssemblyInfo.cs
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.csproj.CoreCompileInputs.cache
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.sourcelink.json
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.dll
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\refint\trackingnumofstudents.dll
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.pdb
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\trackingnumofstudents.genruntimeconfig.cache
+D:\mahesh\j26trackingnumofstudents\trackingnumofstudents\obj\Debug\net9.0\ref\trackingnumofstudents.dll
